@@ -27,4 +27,4 @@ New User
 
 Close the connections
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/61280281/228145477-c7955cb4-1413-45d5-98f0-77b22455ec10.png)
