@@ -11,6 +11,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     s.bind((HOST, PORT))
     print("Server binded to the host %s and port %d" %(HOST,PORT))
     s.listen()
+    # --------------------- wait for client
     conn, addr = s.accept()
     with conn:
         print("Connected by", addr)
